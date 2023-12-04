@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+![Screenshot 2023-12-04 222124](https://github.com/darabperwaiz/react-todo-app/assets/96805782/ec9cde80-5ba3-47a4-9ef4-5e90eee43174)
+
+live at https://darabperwaiz.github.io/react-todo-app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
